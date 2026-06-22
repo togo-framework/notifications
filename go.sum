@@ -1,0 +1,6 @@
+github.com/go-chi/chi/v5 v5.1.0 h1:acVI1TYaD+hhedDJ3r54HyA6sExp3HfXq7QWEEY/xMw=
+github.com/go-chi/chi/v5 v5.1.0/go.mod h1:DslCQbL2OYiznFReuXYUmQ2hGd1aDpCnlMNITLSKoi8=
+github.com/togo-framework/mail v0.1.0 h1:2CJelBApUniGEajyK3lHjgTDEA/JWR2C9YZs+3yzVrk=
+github.com/togo-framework/mail v0.1.0/go.mod h1:2r0/T8uiOOxm8eBVSYezoHRXvuRyh6dl1M2MpffRIWo=
+github.com/togo-framework/togo v0.18.0 h1:f1ImZ2vF0/jgGEBrXViztjz4Ra9HPOdpv7qOdXVZsIs=
+github.com/togo-framework/togo v0.18.0/go.mod h1:/ybNefL1VWo0Pod32+YwW7ZgyInyXzOq3jGPBjUJYtc=
